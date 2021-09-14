@@ -1,3 +1,4 @@
+use warehouse demo_wh;
 CREATE SCHEMA DEMO_SC;
 CREATE TABLE HELLO_WORLD
 (
